@@ -1,0 +1,9 @@
+# Vim
+*.sw*
+
+# Mac
+*.DS_Store
+
+# Hidden
+*hide
+*hide_*
